@@ -1,0 +1,12 @@
+[package]
+name = "Mosaic"
+version = "1.0.0"
+authors = []
+
+[addresses]
+mosaic = "0xb52f354ebf90faac47506ea719dc0bd58bac36ff75249c754c9990377f57d9fd" # porto testnet
+
+[dependencies.AptosFramework]
+git = "https://github.com/movementlabsxyz/aptos-core.git"
+rev = "movement"
+subdir = "aptos-move/framework/aptos-framework"
