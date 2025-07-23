@@ -22,5 +22,4 @@ local = "./interface/mosaic"
 
 ## Contract addresses
 
-- **Porto testnet**: `0xb52f354ebf90faac47506ea719dc0bd58bac36ff75249c754c9990377f57d9fd`
 - **Mainnet**: `0x03f7399a0d3d646ce94ee0badf16c4c3f3c656fe3a5e142e83b5ebc011aa8b3d`
