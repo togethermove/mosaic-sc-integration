@@ -4,7 +4,7 @@ version = "1.0.0"
 authors = []
 
 [addresses]
-mosaic = "0xb52f354ebf90faac47506ea719dc0bd58bac36ff75249c754c9990377f57d9fd" # porto testnet
+mosaic = "0xbd80b9323fe0c5b2baa7220b1a980f5cc26f684d5a45fbffbd94e24de01cdb70" # porto testnet
 
 [dependencies.AptosFramework]
 git = "https://github.com/movementlabsxyz/aptos-core.git"
